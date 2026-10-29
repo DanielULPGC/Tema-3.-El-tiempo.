@@ -57,7 +57,7 @@ window.REFERENCIAS = {
   },
   thornton1988: {
     cita: "Thornton, S. J. y Vukelich, R. (1988). Effects of children's understanding of time concepts on historical understanding. Theory and Research in Social Education, 16(1), 69-82.",
-    tipo: "revista", nota: "Citado en el tema 3; volumen y páginas no contrastados en la ficha editorial (DOI no incluido)."
+    tipo: "revista", nota: "Citado en el tema 3, que la sitúa «a comienzos de los noventa»; la publicación localizada es de 1988. Volumen y páginas no contrastados en la ficha editorial (DOI no incluido)."
   },
 
   /* ---- Obras clásicas y fuentes primarias ---- */

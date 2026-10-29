@@ -34,7 +34,7 @@ window.ESTACIONES = [
     { t: "Tiempo absoluto", d: "En Newton, tiempo exterior, uniforme e independiente de cualquier observador." },
     { t: "Forma a priori", d: "En Kant, molde de la mente que da forma a lo percibido; el tiempo lo es de la sensibilidad interna." }
   ],
-  cita: { texto: "Si nadie me lo pregunta, lo sé; pero si quiero explicárselo al que me lo pregunta, no lo sé.", fuente: "Agustín de Hipona, Confesiones, XI, 14, 17" },
+  cita: { texto: "Si nadie me lo pregunta, lo sé; pero si quiero explicárselo al que me lo pregunta, no lo sé.", fuente: "Agustín de Hipona, Confesiones, XI, 14, 17 (traducción habitual)" },
   matices: [
     { t: "Una precisión sobre los gemelos", d: "El ejemplo habitual de los gemelos (uno viaja «a la velocidad de la luz» y apenas envejece) es una simplificación: ningún cuerpo con masa alcanza esa velocidad. Lo que predice la relatividad es que el tiempo de quien viaja transcurre más despacio cuanto más se acerca a ella." },
     { t: "Dos raíces, no dos bandos", d: "La oposición Aristóteles-Platón es un recurso expositivo. Sirve para distinguir el tiempo medido del tiempo vivido, no para clasificar a todos los pensadores posteriores." }
@@ -88,10 +88,10 @@ window.ESTACIONES = [
     o: ["Por el movimiento de la Luna", "Por una convención cultural", "Por las estaciones del año"]
   },
   sintesis: [
-    "El tiempo civil combina ciclos astronómicos y acuerdos humanos. El <strong>día</strong> procede de la alternancia de luz y oscuridad; el <strong>mes</strong>, de la lunación (unos 29,5 días); el <strong>año</strong>, del movimiento aparente del Sol. Egipcios y romanos se apoyaron en el Sol; hebreos y griegos, en la Luna. Los calendarios islámico y judío siguen hoy ciclos lunares.",
+    "El tiempo civil combina ciclos astronómicos y acuerdos humanos. El <strong>día</strong> procede de la alternancia de luz y oscuridad; el <strong>mes</strong>, de la lunación (unos 29,5 días); el <strong>año</strong>, del movimiento aparente del Sol. Los egipcios se apoyaron en el Sol; hebreos y griegos, en la Luna; Roma pasó de un calendario lunar a uno solar con la reforma juliana. Hoy el calendario islámico es lunar y el judío, lunisolar (combina meses lunares con un mes añadido para ajustarse al año solar).",
     "La <strong>semana</strong>, en cambio, no responde a ningún astro. Ya lo observó José de Acosta en 1590: las «semanas» mexicas no eran de siete días y los incas no la conocían; el año sigue al Sol y el mes a la Luna, pero la semana de siete días procede del relato hebreo de la creación y, en griegos y latinos, de los siete astros entonces conocidos, que dan nombre a los días (lunes, Luna; martes, Marte; miércoles, Mercurio; jueves, Júpiter; viernes, Venus). Sábado procede del <em>sabbat</em> hebreo y domingo, del «día del Señor».",
-    "Nuestro año deriva del calendario romano. Julio César impulsó en el 46 a.&nbsp;C. un calendario solar de 365 días con un día más cada cuatro años (calendario juliano). Como el año solar es algo más corto, en 1582 el desfase era de diez días: la reforma de Gregorio XIII pasó del jueves 4 al viernes 15 de octubre y fijó que los años seculares solo fueran bisiestos si son divisibles entre 400.",
-    "La división del día en 24 horas tiene origen egipcio y la de la hora en 60 minutos, babilónico (base sexagesimal). La Edad Media añadió las horas canónicas (prima, tercia, sexta, nona, vísperas, completas). La industrialización exigió coordinar relojes: el meridiano de Greenwich se acordó como origen en 1884 y la conferencia de París de 1912 coordinó las señales horarias. Hoy, cuando en Las Palmas son las 12:00, en Madrid son las 13:00.",
+    "Nuestro año deriva del calendario romano. Julio César decretó en el 46 a.&nbsp;C., con vigencia desde el 45, un calendario solar de 365 días con un día más cada cuatro años (calendario juliano). Como el año solar es algo más corto, en 1582 el desfase era de diez días: la reforma de Gregorio XIII pasó del jueves 4 al viernes 15 de octubre y fijó que los años seculares solo fueran bisiestos si son divisibles entre 400.",
+    "La división del día en 24 horas tiene origen egipcio; la subdivisión en minutos y segundos se apoya en la base sexagesimal babilónica, adoptada por la astronomía helenística. La Edad Media añadió las horas canónicas (prima, tercia, sexta, nona, vísperas, completas). La industrialización exigió coordinar relojes: el meridiano de Greenwich se acordó como origen en 1884 y la conferencia de París de 1912 coordinó las señales horarias. Hoy, cuando en Las Palmas son las 12:00, en Madrid son las 13:00.",
     "La <strong>era</strong> marca el paso del tiempo cronológico al histórico: contar desde el nacimiento de Cristo (cómputo de Dionisio el Exiguo, siglo VI), desde la Hégira (622) o desde la creación del mundo según la tradición judía es una decisión cultural. No existe el año cero: al 1 a.&nbsp;C. le sigue el 1 d.&nbsp;C."
   ],
   conceptos: [
@@ -105,6 +105,7 @@ window.ESTACIONES = [
   matices: [
     { t: "Lee con cautela: Augusto y febrero", d: "Algunos manuales explican que Augusto quitó un día a febrero para que agosto tuviera 31. Este relato no se documenta en las fuentes romanas y suele atribuirse a una explicación medieval; conviene presentarlo como leyenda, no como hecho." },
     { t: "Una regla incompleta", d: "Decir que «el último año de cada siglo no es bisiesto» es inexacto: 1700, 1800 y 1900 no lo fueron, pero 1600 y 2000 sí, porque son divisibles entre 400." },
+    { t: "Lunar no es lo mismo que lunisolar", d: "Trepat agrupa los calendarios islámico y judío como lunares. El islámico es lunar (su año dura unos 354 días y sus fiestas recorren todas las estaciones); el judío es lunisolar: añade un mes en algunos años para no separarse del año solar." },
     { t: "1884 y 1912", d: "Algunos textos atribuyen el sistema de husos a la conferencia de París de 1912. El meridiano de Greenwich se había adoptado como origen en Washington (1884); la reunión de 1912 trató de las señales horarias por radio. La adopción de husos fue gradual y decidida por cada Estado." }
   ],
   aula: [
@@ -237,6 +238,7 @@ window.ESTACIONES = [
     "El tiempo vivido arraiga en el presente, desde el que recordamos el pasado e imaginamos el futuro. Estos tiempos personales se insertan en un tiempo colectivo que da sentido a la experiencia de una civilización: una memoria de sus orígenes, un discurso sobre su presente y una expectativa sobre su destino (Trepat, 2006).",
     "<strong>La rueda.</strong> La Antigüedad grecorromana tendió a concebir el tiempo como cíclico, a imagen de la naturaleza (día y noche, nacimiento, apogeo y decadencia). La idea del Gran Año suponía que, cumplido un largo ciclo, el universo volvía a empezar. Concepciones cíclicas se han atribuido también a los mayas o al budismo.",
     "<strong>La flecha.</strong> La tradición hebrea, abierta al futuro, y el cristianismo, sistematizado por San Agustín, introdujeron un tiempo lineal: un origen (la Creación), un recorrido providencial y un final. Desde el siglo XVIII este esquema se secularizó en la idea de <em>progreso continuo</em> (Turgot, Condorcet, Comte, Hegel) y el marxismo lo adaptó como sucesión de etapas hacia una sociedad sin clases. Esa idea persiste cuando se da por hecho que cada edad es mejor que la anterior o cuando se habla de Edad de Piedra, de Bronce y de Hierro.",
+    "<strong>Los tiempos míticos.</strong> Antes que la historia como ciencia está el mito: un relato que pone en palabras la realidad de un modo distinto a la lógica, no un contenido «falso». Los mitos de los orígenes (tiempos primordiales) y del final (tiempos escatológicos) expresan el sentido del tiempo de una sociedad, tienen gran valor didáctico por su orden imaginativo y son fuente para estudiar la larga duración de las mentalidades (tema 3, a partir de Trepat).",
     "<strong>La trenza.</strong> A finales del siglo XX se debilita la idea de una dirección inscrita en la historia. La historia real está hecha de rodeos, desfases, bloqueos, aceleraciones y retrocesos; el futuro depende de lo que hagamos en el presente. La historia sirve para conocernos y juzgarnos, no como «bola de cristal» que marque un único camino (Trepat, 2006)."
   ],
   conceptos: [
@@ -244,9 +246,10 @@ window.ESTACIONES = [
     { t: "Tiempo cíclico", d: "Concepción en la que los procesos retornan periódicamente." },
     { t: "Tiempo lineal", d: "Concepción con origen, recorrido irreversible y, a veces, un final." },
     { t: "Progreso continuo", d: "Versión secular del tiempo lineal: cada etapa supera a la anterior." },
-    { t: "Teleología", d: "Explicación de la historia por su supuesto fin o destino." }
+    { t: "Teleología", d: "Explicación de la historia por su supuesto fin o destino." },
+    { t: "Tiempos míticos", d: "Tiempos primordiales (orígenes) y escatológicos (final) narrados por el mito; fuente de las mentalidades de larga duración." }
   ],
-  cita: { texto: "La historia no sería hoy una bola de cristal que nos marcaría un único camino correcto hacia el porvenir.", fuente: "Paráfrasis de Trepat (2006, p. 25)" },
+  cita: { texto: "[La historia] no sería hoy ya, en ningún caso, una bola de cristal que nos marcaría un único camino correcto hacia el porvenir.", fuente: "Trepat (2006, p. 25)" },
   matices: [
     { t: "Simplificar sin falsear", d: "«Cíclico» y «lineal» son tipos ideales. La tradición hebrea conservó ciclos (el año jubilar) y en Grecia también hubo pensamiento lineal. Úsense como herramientas de comparación." },
     { t: "Progreso: ¿para quién?", d: "Arias Ferrer y Egea Vivancos (2022) invitan a contrastar la tesis del progreso con guerras, crisis, retrocesos sociales e impacto ambiental, sin negar las mejoras reales en otros aspectos." }
@@ -313,7 +316,7 @@ window.ESTACIONES = [
     { t: "Estructura (larga duración)", d: "Constantes que cambian muy despacio y limitan el cambio: medio, técnicas, demografía, mentalidades." },
     { t: "Historia total", d: "Aspiración de los Annales a relacionar todos los niveles de la realidad social." }
   ],
-  cita: { texto: "El tiempo cronológico ordena, sitúa y organiza […]; en cambio, el tiempo histórico […] explica.", fuente: "Trepat, citado en Arias Ferrer y Egea Vivancos (2022, p. 98)" },
+  cita: { texto: "El tiempo cronológico ordena, sitúa y organiza; en cambio el tiempo histórico […] explica.", fuente: "Trepat (2002, pp. 42-43), citado en Arias Ferrer y Egea Vivancos (2022, p. 98)" },
   matices: [
     { t: "¿De quién es la expresión?", d: "Los apuntes atribuyen a Vovelle la idea de las mentalidades como «prisiones de larga duración». La fórmula aparece ya en el artículo de Braudel de 1958 a propósito de los marcos mentales; Vovelle la desarrolló en la historia de las mentalidades." },
     { t: "Un esquema, no una receta", d: "No todos los hechos admiten una explicación causal en tres niveles tan nítida. El ejemplo de 1492 (acontecimiento), 1453 (coyuntura) y el Renacimiento (estructura) es, como reconocen sus autores, reduccionista; su valor está en ampliar el foco." }
@@ -472,10 +475,11 @@ window.ESTACIONES = [
     o: ["Desde Educación Infantil", "Desde los 7-8 años", "No antes de los 11-12 años"]
   },
   sintesis: [
+    "<strong>Por qué cuesta aprender el tiempo histórico.</strong> El tema distingue tres tipos de problemas: <em>epistemológico y didáctico</em> (qué entendemos por tiempo en la enseñanza; su reducción a cronología), <em>axiológico</em> (para qué enseñar a situarse en el tiempo, es decir, las finalidades de la historia escolar) y <em>psicológico</em> (cómo construyen la temporalidad niños, niñas y adolescentes y qué papel tiene la enseñanza).",
     "<strong>Las teorías clásicas.</strong> Piaget (1946) describió tres estadios: <em>tiempo vivido</em> (hasta los 6-7 años, sin distinguir con nitidez orden, posición ni duración), <em>tiempo percibido</em> (7-11 años, ritmos, duraciones y sucesión) y <em>tiempo concebido</em> (desde los 11-12 años, abstracción y causalidad). Hannoun (1977) y otros organizaron las categorías temporales —ritmos, orientación, posición, duraciones, velocidades y medida— y propusieron tres pasos didácticos: <em>identificación o experiencia</em>, <em>descentración</em> y <em>extensión del concepto</em>.",
     "<strong>La revisión.</strong> Calvani (1986, 1988) sostuvo que la comprensión temporal es posible ya entre los 3 y los 6 años y que los problemas dependen sobre todo de los contenidos y de la didáctica. Egan (1991) revalorizó la imaginación y el relato como herramientas para pensar lo lejano. Cooper (2002) muestra que, desde los 3 años, se pueden trabajar semejanzas y diferencias entre pasado y presente y que, con cuentos, objetos y fuentes, se puede desarrollar pensamiento histórico en los primeros cursos. Thornton y Vukelich (1988) propusieron fases que adelantan a las piagetianas.",
     "<strong>Investigación reciente.</strong> De Groot-Reuvekamp et al. (2017) evaluaron a 1457 escolares de 6 a 12 años y propusieron un modelo de comprensión en tres etapas (emergente, inicial y continuada): todos los cursos mejoraban con la edad, pero el mayor margen de mejora estaba entre los 6 y los 9 años, con poca enseñanza explícita del tiempo. En España, Arias-Ferrer y Egea-Vivancos (2022) comprobaron que los currículos de 2014 seguían más cerca de las tesis piagetianas que de las propuestas recientes sobre pensamiento histórico.",
-    "<strong>Implicaciones.</strong> La escuela debe superar la «historia de museo», partir del presente y de los problemas del alumnado, enseñar a periodizar y trabajar la cronología junto con el cambio, la duración, la sucesión y el ritmo. En el marco LOMLOE, el área de Conocimiento del Medio Natural, Social y Cultural (RD 157/2022; en Canarias, Decreto 211/2022) recoge el análisis de continuidades y cambios, la causalidad, la simultaneidad y la sucesión."
+    "<strong>Implicaciones.</strong> La escuela debe superar la «historia de museo», partir del presente y de los problemas del alumnado, enseñar a periodizar y trabajar la cronología junto con el cambio, la duración, la sucesión y el ritmo. En el marco LOMLOE, la competencia específica 7 del área de Conocimiento del Medio Natural, Social y Cultural pide «observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos» (RD 157/2022; Decreto 211/2022 en Canarias). En Canarias, el criterio 7.1 progresa de ordenar temporalmente hechos del entorno cercano (1.er ciclo) a localizarlos de la Prehistoria a la Edad Antigua (2.º) y a analizarlos de la Edad Media a la actualidad (3.º). El cuadro completo está en la Guía de estudio."
   ],
   conceptos: [
     { t: "Tiempo vivido", d: "Experiencia directa y poco organizada del tiempo (estadio preoperatorio)." },
@@ -488,7 +492,7 @@ window.ESTACIONES = [
   matices: [
     { t: "Estadios: orientación, no frontera", d: "Las edades de Piaget son orientativas. Leídas como límites rígidos, justifican retrasar la historia en la escuela, algo que la investigación posterior no respalda." },
     { t: "Lo que no dicen los datos", d: "El estudio de De Groot-Reuvekamp et al. (2017) se hizo con alumnado neerlandés y un currículo organizado en diez eras; sus cifras no se trasladan sin más al contexto canario." },
-    { t: "Curriculum: cotéjese la letra", d: "La formulación de la competencia específica del área sobre continuidades, cambios, causalidad, simultaneidad y sucesión se resume aquí; antes de citarla en una programación, cotéjese literalmente con el RD 157/2022 y el Decreto 211/2022." }
+    { t: "Currículo: la letra y su reparto", d: "La competencia específica 7 se cita literalmente del RD 157/2022 y del Decreto 211/2022 (BOC n.º 231, Anexo 2). Su reparto por ciclos en Canarias (entorno cercano; Prehistoria-Edad Antigua; Edad Media-actualidad) es una decisión curricular, no una consecuencia de los estadios piagetianos: conviene no confundir ambas cosas." }
   ],
   aula: [
     "1.º-2.º: rutinas, horario visual, antes-ahora-después, fotos de la propia vida, objetos de los abuelos.",
